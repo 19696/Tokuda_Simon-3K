@@ -1,16 +1,49 @@
-# Tokuda_Simon-3K
-FORM-3-ICT
-<!DocTypehtml>
+<!DOCTYPE html>
 <html>
 <head>
-	<title>
-		cool website
-	</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  margin: 0;
+  font-family: Arial;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+</style>
 </head>
 <body>
-<p>
-こんにちは、　貴方はとても馬鹿馬鹿しいですね。<br>
-you are very god
-</p>
+
+<div class="topnav">
+  <a class="active" href="file:///H:/Technology/Tokuda%20.%20S/Form%203%20Websites/test-school.html">Home</a>
+  <a href="file:///H:/Technology/Tokuda%20.%20S/Form%203%20Websites/inThetest-school.html">School</a>
+  <a href="https://lichess.org/login?referrer=/mobile">Chess</a>
+  <a href="file:///H:/Technology/Tokuda%20.%20S/Form%203%20Websites/inThetest-school_2.html">Get Your Location!</a>
+</div>
+
+<img src="road.jpg"width="475" height="280">
+
+
 </body>
 </html>
